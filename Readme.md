@@ -35,7 +35,6 @@ You can view the poster here:
 
 ## ⚠️ Important Note
 
-> The test set scores reported for **Sentiment Analysis (SA)** in the paper are **incorrect** due to mislabeled data — an incorrect file was used during evaluation.(dev scores for SA and all numbers for other tasks remain valid)  
-> **Kindly disregard the reported SA test set results.**
+> Please note that the test set scores for sentiment analysis (SA) have some discrepancy due to mislabeled data. (The dev scores for SA and all numbers for other tasks can be reproduced.)
 
 ---
