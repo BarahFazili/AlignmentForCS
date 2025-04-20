@@ -35,7 +35,7 @@ You can view the poster here:
 
 ## ⚠️ Important Note
 
-> The test set scores reported for **Sentiment Analysis (SA)** in the paper are **incorrect** due to mislabeled data — an incorrect file was used during evaluation.  
+> The test set scores reported for **Sentiment Analysis (SA)** for the test set in the paper are **incorrect** due to mislabeled data — an incorrect file was used during evaluation.(all other scores are valid)  
 > **Kindly disregard the reported SA test set results.**
 
 ---
