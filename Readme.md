@@ -1,4 +1,4 @@
-# Multilingual Alignment and Evaluation
+# Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding
 
 This repository contains code and resources for multilingual alignment using contrastive training and further fine-tuning for various downstream tasks.
 
